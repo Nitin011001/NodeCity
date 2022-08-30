@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Nitin011001/NodeCity/issues"
   },
-  "homepage": "https://github.com/Nitin011001/NodeCity#readme"
+  "homepage": "https://github.com/Nitin011001/NodeCity#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
