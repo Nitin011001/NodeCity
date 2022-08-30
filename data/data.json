@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "placeName": "CN Tower",
+    "image": "https://images.pexels.com/photos/1697364/pexels-photo-1697364.jpeg",
+    "from": "Canada",
+    "famous":"Expensive Pride",
+    "city": "toronto",
+    "quote": "Big and Expensive",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis perspiciatis ex sit rerum. Ex quos nobis odio dolorum animi doloremque voluptatem rerum, culpa officia repellendus minus dolorem totam excepturi voluptates."
+  },
+  {
+    "id": 1,
+    "placeName": "CN Tower",
+    "image": "https://images.pexels.com/photos/1697364/pexels-photo-1697364.jpeg",
+    "from": "Canada",
+    "famous":"Expensive Pride",
+    "city": "toronto",
+    "quote": "Big and Expensive",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis perspiciatis ex sit rerum. Ex quos nobis odio dolorum animi doloremque voluptatem rerum, culpa officia repellendus minus dolorem totam excepturi voluptates."
+  },
+  {
+    "id": 2,
+    "placeName": "CN Tower",
+    "image": "https://images.pexels.com/photos/1697364/pexels-photo-1697364.jpeg",
+    "famous":"Expensive Pride",
+    "from": "Canada",
+    "city": "toronto",
+    "quote": "Big and Expensive",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis perspiciatis ex sit rerum. Ex quos nobis odio dolorum animi doloremque voluptatem rerum, culpa officia repellendus minus dolorem totam excepturi voluptates."
+  }
+]
